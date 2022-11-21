@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 **Learning never exhausts the mind**
 
 
 <p align="left">
